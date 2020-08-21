@@ -1,8 +1,8 @@
 .vs/
 node-modules/*
-web/node-modules/*
-server/node-modules/*
-mobile/node-modules/*
+/web/node-modules/*
+/server/node-modules/*
+/mobile/node-modules/*
 v16/*
 
 # User-specific files
